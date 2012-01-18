@@ -57,7 +57,8 @@
 			<br />
 			&nbsp;
 			<br />
-			<a id="tweet" href="http://www.twitter.com/intent/tweet?hashtags=ldnont&text=Adds+and+Cuts+Tax+Impact+Calculator">Tweet This</a>
+			<a id="tweet" href="http://www.twitter.com/intent/tweet?hashtags=ldnont&text=Adds+and+Cuts+Tax+Impact+Calculator">Tweet This</a><br />
+			<a id="code" href="https://github.com/gavinblair/Adds-and-Cuts">Fork This</a>
 		</p>
 		<p id="fineprint">
 			We're using an average property owner tax of $2799. Also, <span class="type">timbits</span> are $<span class="cost">0.15</span> each.
