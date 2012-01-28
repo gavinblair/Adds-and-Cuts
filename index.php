@@ -52,7 +52,7 @@
 		<h2>How do you feel about this?</h2>
 		<p>
 			<a href="mailto:budget@london.ca?subject=Adds and Cuts Public Feedback">Email the city</a><br />
-			<a href="http://twitter.com/#!/londoncomms">Tweet at the city</a><br />
+			<a href="http://twitter.com/#!/londoncomms">Tweet the city</a><br />
 	<a href="tel:5196614638">Call the city: (519) 661-4638</a><br />
 			<br />
 			&nbsp;
